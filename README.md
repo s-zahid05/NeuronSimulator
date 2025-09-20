@@ -9,4 +9,5 @@ The neuron integrates presynaptic inputs in the dendritic compartment, producing
 <img width="1884" height="271" alt="Image" src="https://github.com/user-attachments/assets/6bca2538-3772-4730-88d6-59f6a9f971ab" />
 The dendritic compartment continues to burst and drive the soma like in waveform 1, but with extended negative weight bounds, repeated presynaptic firing depletes synaptic efficacy through STP. Once fully expended, the negative weights no longer provide excitatory drive to the dendrite, effectively silencing the neuron. This behavior resembles excitotoxic-like shutdown, where overstimulation leads to a pathological loss of activity instead of stable adaptation.
 
+
 The neuron simulator is still going through testing for multi-nueron access and usage.
